@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/go-git/go-git/v5 v5.10.0
 	github.com/no-src/log v0.3.1
-	github.com/no-src/nsgo v0.0.0-20231106032541-de0f7f19b7e2
+	github.com/no-src/nsgo v0.0.1
 )
 
 require (
