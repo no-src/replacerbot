@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/no-src/log v0.3.1
-	github.com/no-src/nsgo v0.0.1
+	github.com/no-src/nsgo v0.0.3
 )
 
 require (
@@ -26,12 +26,12 @@ require (
 	github.com/pjbgf/sha1cd v0.3.0 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
 	github.com/quic-go/qtls-go1-20 v0.4.1 // indirect
-	github.com/quic-go/quic-go v0.40.0 // indirect
+	github.com/quic-go/quic-go v0.40.1 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/skeema/knownhosts v1.2.1 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	go.uber.org/mock v0.3.0 // indirect
-	golang.org/x/crypto v0.16.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20230210204819-062eb4c674ab // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
